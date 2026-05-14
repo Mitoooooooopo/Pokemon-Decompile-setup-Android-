@@ -10,4 +10,5 @@ any midrange or low end phone processor will work as long as it's not super anci
 atleast 5GB free space for comfortable work 
 
 If your device meets this requirement you can proceed to install 
-https://github.com/Mitoooooooopo/Pokemon-Decompile-setup-Android-.wiki.git
+
+https://github.com/Mitoooooooopo/Pokemon-Decompile-setup-Android-/wiki
