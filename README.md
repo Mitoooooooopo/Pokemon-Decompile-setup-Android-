@@ -4,6 +4,7 @@ this repository contains the details and guide on installing and setting up poke
 
 # Before proceeding 
 make sure your phone have minimum 3GB RAM 
+minimum Android 8
 any midrange or low end phone processor will work as long as it's not super ancient (anything before 2017)
 
 atleast 5GB free space for comfortable work 
